@@ -5,7 +5,7 @@
 
 _Este proyecto es desarrollado por Luis Felipe Taddey Espinosa, en la cual demuestra sus conocimientos en SpringBoot MVC.
 ### ¿Qué conocimientos tiene? 🔧
-Uso de la arquitectura MVC de SpringBoot, uso de Params, controladores y vistas.
+Uso de la arquitectura MVC de SpringBoot, uso de Params, controladores y vistas(Thymeleaf).
 
 ## Ejecutando la aplicación ⚙️
 Ejecutarlo con Run>SpringBoot App
